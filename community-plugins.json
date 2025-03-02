@@ -1,5 +1,12 @@
 [
     {
+  	"id": "tag-jia",
+  	"name": "TagJia ",
+ 	"author": "nanguaren",
+  	"description": "A plugin for batch adding labels",
+  	"repo": "nanguaren/tag-jia"
+    }
+    {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
         "author": "Argentina Ortega Sainz",
